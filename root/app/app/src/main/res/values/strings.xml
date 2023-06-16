@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Swalokal</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="here">here</string>
+    <string name="swalokal">Swalokal.</string>
+    <string name="helps_you_find_what_you_need">helps you find what you need</string>
+    <string name="gallery">Gallery</string>
+    <string name="insert_the_product_image_and_wait_for_the_result">insert the product image and wait for the result</string>
+    <string name="camera">Camera</string>
+    <string name="photo_the_product_and_wait_for_the_result">photo the product and wait for the result</string>
+    <string name="find">find</string>
+    <string name="swith_camera">swith camera</string>
+    <string name="result_for">Result for</string>
+    <string name="expand">expand</string>
+    <string name="foto_toko">Foto Toko</string>
+    <string name="nama_toko">Nama Toko</string>
+    <string name="_100_m">100 m</string>
+    <string name="icon_route">Icon Route</string>
+</resources>
